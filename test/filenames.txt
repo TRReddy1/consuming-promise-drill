@@ -1,0 +1,3 @@
+./Upper.txt
+./sentences.txt
+./sorted.txt
